@@ -33,6 +33,11 @@
 .tx-ctr {text-align: center !important}
 .tx-end {text-align: right !important}
 
+/* Text Decoration */
+.tx-dcr-no {text-decoration: none !important}
+.tx-dcr-uline {text-decoration: underline !important}
+.tx-dcr-thru {text-decoration: line-through !important}
+
 /* Text Transform */
 .tx-low {text-transform: lowercase !important}
 .tx-up {text-transform: uppercase !important}
