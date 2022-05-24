@@ -33,6 +33,11 @@
 .tx-ctr {text-align: center !important}
 .tx-end {text-align: right !important}
 
+/* Text Transform */
+.tx-low {text-transform: lowercase !important}
+.tx-up {text-transform: uppercase !important}
+.tx-cap {text-transform: capitalize !important}
+
 
 /* SPACING
    —————————————————————— */
