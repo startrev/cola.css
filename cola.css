@@ -14,7 +14,6 @@
 
 /* DISPLAY PROPERTY
    —————————————————————— */
-/* Notation */
 .d-no {display: none !important}
 .d-in {display: inline !important}
 .d-in-blck {display: inline-block !important}
