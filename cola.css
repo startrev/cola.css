@@ -156,3 +156,9 @@
 .vrt-btm {vertical-align: bottom !important}
 .vrt-tx-top {vertical-align: text-top !important}
 .vrt-tx-btm {vertical-align: text-bottom !important}
+
+
+/* VISIBILITY
+   —————————————————————— */
+.vsbl {visibility: visible !important}
+.invsbl {visibility: hidden !important}
