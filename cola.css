@@ -38,6 +38,16 @@
 .tx-up {text-transform: uppercase !important}
 .tx-cap {text-transform: capitalize !important}
 
+/* Font Weight & Style */
+.fw-litr {font-weight: lighter !important}
+.fw-lit {font-weight: 300 !important}
+.fw-nrml {font-weight: 400 !important}
+.fw-sbld {font-weight: 600 !important}
+.fw-bld {font-weight: 700 !important}
+.fw-bldr {font-weight: bolder !important}
+.fst-ital {font-style: italic !important}
+.fst-nrml {font-style: normal !important}
+
 
 /* SPACING
    —————————————————————— */
