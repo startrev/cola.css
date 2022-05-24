@@ -123,18 +123,21 @@
 
 /* BORDERS
    —————————————————————— */
+
 /* Additive */
-.bordr {border: solid 1px #e7e7e7 !important}
-.bordr-top {border-top: solid 1px #e7e7e7 !important}
-.bordr-end {border-right: solid 1px #e7e7e7 !important}
-.bordr-btm {border-bottom: solid 1px #e7e7e7 !important}
-.bordr-str {border-left: solid 1px #e7e7e7  !important}
+.brdr {border: solid 1px #e7e7e7 !important}
+.brdr-top {border-top: solid 1px #e7e7e7 !important}
+.brdr-end {border-right: solid 1px #e7e7e7 !important}
+.brdr-btm {border-bottom: solid 1px #e7e7e7 !important}
+.brdr-str {border-left: solid 1px #e7e7e7  !important}
+
 /* Subtractive */
-.bordr0 {border: none !important}
-.bordr0-top {border-top: none !important}
-.bordr0-end {border-right: none !important}
-.bordr0-btm {border-bottom: none !important}
-.bordr0-str {border-left: none !important}
+.brdr0 {border: none !important}
+.brdr0-top {border-top: none !important}
+.brdr0-end {border-right: none !important}
+.brdr0-btm {border-bottom: none !important}
+.brdr0-str {border-left: none !important}
+
 /* Radius */
 .rnd {border-radius: .375rem !important}
 .rnd-top {border-radius: .375rem .37rem 0 0 !important}
