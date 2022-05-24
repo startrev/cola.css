@@ -146,3 +146,13 @@
 .rnd-str {border-radius: 0 .375rem .375rem 0 !important}
 .rnd-circ {border-radius: 50% !important}
 .rnd-pill {border-radius: 800px !important}
+
+
+/* VERTICAL ALIGNMENT
+   —————————————————————— */
+.vrt-base {vertical-align: baseline !important}
+.vrt-top {vertical-align: top !important}
+.vrt-mid {vertical-align: middle !important}
+.vrt-btm {vertical-align: bottom !important}
+.vrt-tx-top {vertical-align: text-top !important}
+.vrt-tx-btm {vertical-align: text-bottom !important}
