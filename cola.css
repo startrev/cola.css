@@ -40,6 +40,30 @@
 .oflo-scroll {overflow: scroll !important}
 
 
+/* SIZING
+   —————————————————————— */
+
+/* Width */
+.w25 {width: 25% !important}
+.w50 {width: 50% !important}
+.w75 {width: 75% !important}
+.w100 {width: 100% !important}
+.wat {width: auto !important}
+.mw100 {max-width: 100% !important}
+.vw100 {width: 100vw !important}
+.mv100 {min-width: 100vw !important}
+
+/* Height */
+.h25 {height: 25% !important}
+.h50 {height: 50% !important}
+.h75 {height: 75% !important}
+.h100 {height: 100% !important}
+.hat {height: auto !important}
+.mh100 {max-height: 100% !important}
+.vh100 {height: 100vh !important}
+.mvh100 {min-height: 100vh !important}
+
+
 /* TEXT
    —————————————————————— */
 /* Text Alignment */
