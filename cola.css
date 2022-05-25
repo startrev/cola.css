@@ -25,6 +25,13 @@
 .d-i-flx {display: inline-flex !important}
 
 
+/* FLOAT
+   —————————————————————— */
+.flt-str {float: left !important}
+.flt-no {float: none !important}
+.flt-end {float: right !important}
+
+
 /* TEXT
    —————————————————————— */
 /* Text Alignment */
