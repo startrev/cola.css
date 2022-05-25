@@ -32,6 +32,14 @@
 .flt-end {float: right !important}
 
 
+/* OVERFLOW
+   —————————————————————— */
+.oflo-auto {overflow: auto !important}
+.oflo-vsbl {overflow: visible !important}
+.oflo-invsbl {overflow: hidden !important}
+.oflo-scroll {overflow: scroll !important}
+
+
 /* TEXT
    —————————————————————— */
 /* Text Alignment */
