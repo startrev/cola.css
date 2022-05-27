@@ -5,6 +5,7 @@
 
 /* TYPOGRAPHY
    —————————————————————— */
+
 /* Lists */
 .li-ustyle {padding-left: 0 !important; list-style: none !important}
 .li-in {padding-left: 0; list-style: none !important}
@@ -141,7 +142,6 @@
 .pstn-fxd {position: fixed !important}
 .pstn-stic {position: -webkit-sticky !important; position: sticky !important}
 
-
 /* Arrange */
 .top0 {top: 0 !important}
 .top25 {top: 25% !important}
@@ -204,6 +204,7 @@
 
 /* TEXT
    —————————————————————— */
+
 /* Text Alignment */
 .tx-str {text-align: left !important}
 .tx-ctr {text-align: center !important}
@@ -232,6 +233,7 @@
 
 /* SPACING
    —————————————————————— */
+
 /* Margin */
 .m0 {margin: 0 !important}
 .m1 {margin: .25rem !important}
