@@ -177,6 +177,42 @@
 .pe-no {pointer-events: none !important}
 .pe-auto {pointer-events: auto !important}
 
+/* Cursors */
+.csr-alias {cursor: alias !important}
+.csr-all {cursor: all-scroll !important}
+.csr-auto {cursor: auto !important}
+.csr-cell {cursor: cell !important}
+.csr-ctxmenu {cursor: context-menu !important}
+.csr-clrsz {cursor: col-resize !important}
+.csr-cp {cursor: copy !important}
+.csr-crsshr {cursor: crosshair !important}
+.csr-dflt {cursor: default !important}
+.csr-ersz {cursor: e-resize !important}
+.csr-ewrsz {cursor: ew-resize !important}
+.csr-grb {cursor: grab !important}
+.csr-grbng {cursor: grabbing !important}
+.csr-help {cursor: help !important}
+.csr-mv {cursor: move !important}
+.csr-nrsz {cursor: n-resize !important}
+.csr-nersz {cursor: ne-resize !important}
+.csr-neswrsz {cursor: nesw-resize !important}
+.csr-nsrsz {cursor: ns-resize !important}
+.csr-nwrsz {cursor: nw-resize !important}
+.csr-nwsersz {cursor: nwse-resize !important}
+.csr-nodrp {cursor: no-drop !important}
+.csr-no {cursor: none !important}
+.csr-ntalwd {cursor: not-allowed !important}
+.csr-pntr {cursor: pointer !important}
+.csr-prgrs {cursor: progress !important}
+.csr-rwrsz {cursor: row-resize !important}
+.csr-srsz {cursor: s-resize !important}
+.csr-sersz {cursor: se-resize !important}
+.csr-swrsz {cursor: sw-resize !important}
+.csr-tx {cursor: text !important}
+.csr-wrsz {cursor: w-resize !important}
+.csr-wait {cursor: wait !important}
+.csr-zmin {cursor: zoom-in !important}
+.csr-zmout {cursor: zoom-out !important}
 
 
 /* OPACITY
