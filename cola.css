@@ -3,6 +3,57 @@
 ——————————————————————-*/
 
 
+/* VARIABLES
+   —————————————————————— */
+
+:root {
+   --red: red;
+   --orange: orange;
+   --yellow: yellow;
+   --green: green;
+   --blue: blue;
+   --purple: purple;
+   --pink: pink;
+   --black: black;
+   --dark: #22272e;
+   --grey: grey;
+   --white: white;
+   --light: #e7e7e7;
+}
+
+
+/* COLORS
+   —————————————————————— */
+
+/* Background */
+.red {background: var(--red) !important}
+.orange {background: var(--orange) !important}
+.yellow {background: var(--yellow) !important}
+.green {background: var(--green) !important}
+.blue {background: var(--blue) !important}
+.purple {background: var(--purple) !important}
+.pink {background: var(--pink) !important}
+.black {background: var(--black) !important}
+.dark {background: var(--dark) !important}
+.grey {background: var(--grey) !important}
+.white {background: var(--white) !important}
+.light {background: var(--light) !important}
+
+/* Text */
+.tx-red {color: var(--red) !important}
+.tx-orange {color: var(--orange) !important}
+.tx-yellow {color: var(--yellow) !important}
+.tx-green {color: var(--green) !important}
+.tx-blue {color: var(--blue) !important}
+.tx-purple {color: var(--purple) !important}
+.tx-pink {color: var(--pink) !important}
+.tx-black {color: var(--black) !important}
+.tx-dark {color: var(--dark) !important}
+.tx-grey {color: var(--grey) !important}
+.tx-white {color: var(--white) !important}
+.tx-light {color: var(--light) !important}
+
+
 /* TYPOGRAPHY
    —————————————————————— */
 
