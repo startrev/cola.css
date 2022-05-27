@@ -2,7 +2,7 @@
     "files.exclude": {
         "**/node_modules": true,
         "**/package-lock*": true,
-        "**/LICENSE": true,
-        "**/*.md": true
+        "**/CONTRIBUTING.md": true,
+        "**/CODE_OF_CONDUCT.md": true
     }
 }
