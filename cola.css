@@ -25,6 +25,74 @@
 .d-i-flx {display: inline-flex !important}
 
 
+/* FLEX
+   —————————————————————— */
+
+/* Align Content */
+.algn-cntnt-str {align-content: flex-start !important}
+.algn-cntnt-cntr {align-content: center !important}
+.algn-cntnt-end {align-content: flex-end !important}
+.algn-cntnt-btwn {align-content: space-between !important}
+.algn-cntnt-arnd {align-content: space-around !important}
+.algn-cntnt-strch {align-content: stretch !important}
+
+/* Align Items */
+.algn-itms-str {align-items: flex-start !important}
+.algn-itms-str {align-items: center !important}
+.algn-itms-end {align-items: flex-end !important}
+.algn-itms-base {align-items: baseline !important}
+.algn-itms-strch {align-items: stretch !important}
+
+/* Align Self */
+.algn-slf-str {align-self: flex-start !important}
+.algn-slf-cntr {align-self: center !important}
+.algn-slf-end {align-self: flex-end !important}
+.algn-slf-base {align-self: baseline !important}
+.algn-slf-strch {align-self: stretch !important}
+
+/* Direction */
+.flx-row {flex-direction: row !important}
+.flx-row-rvrs {flex-direction: row-reverse !important}
+.flx-col {flex-direction: column !important}
+.flx-col-rvrs {flex-direction: column-reverse !important}
+
+/* Fill */
+.flx-fll {flex: 1 1 auto !important}
+
+/* Grow & Shrink */
+.flx-grw0 {flex-grow: 0 !important}
+.flx-grw1 {flex-grow: 1 !important}
+.flx-shrnk0 {flex-shrink: 0 !important}
+.flx-shrnk1 {flex-shrink: 1 !important}
+
+/* Justify Content */
+.jst-cntnt-str {justify-content: flex-start !important}
+.jst-cntnt-cntr {justify-content: center !important}
+.jst-cntnt-end {justify-content: flex-end !important}
+.jst-cntnt-btwn {justify-content: space-between !important}
+.jst-cntnt-arnd {justify-content: space-around !important}
+.jst-cntnt-even {justify-content: space-evenly !important}
+
+/* Media Object */
+.flx-shrnk0 {flex-shrink: 0 !important}
+.flx-shrnk1 {flex-shrink: 1 !important}
+
+/* Order */
+.ordr-1st {order: -1 !important}
+.ordr0 {order: 0 !important}
+.ordr1 {order: 1 !important}
+.ordr2 {order: 2 !important}
+.ordr3 {order: 3 !important}
+.ordr4 {order: 4 !important}
+.ordr5 {order: 5 !important}
+.ordr-lst {order: 6 !important}
+
+/* Wrap */
+.flx-wrp {flex-wrap: wrap !important}
+.flx-no-wrp {flex-wrap: nowrap !important}
+.flx-wrp-rvrs {flex-wrap: wrap-reverse !important}
+
+
 /* FLOAT
    —————————————————————— */
 .flt-str {float: left !important}
