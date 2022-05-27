@@ -170,12 +170,12 @@
 
 /* Text Selection */
 .usr-slct-all {-webkit-user-select: all !important; -moz-user-select: all !important; user-select: all !important}
-.usr-slct-ato {-webkit-user-select: auto !important; -moz-user-select: auto !important; user-select: auto !important}
+.usr-slct-auto {-webkit-user-select: auto !important; -moz-user-select: auto !important; user-select: auto !important}
 .usr-slct-no {-webkit-user-select: none !important; -moz-user-select: none !important; user-select: none !important}
 
 /* Pointer Events */
 .pe-no {pointer-events: none !important}
-.pe-ato {pointer-events: auto !important}
+.pe-auto {pointer-events: auto !important}
 
 
 
