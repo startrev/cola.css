@@ -113,6 +113,16 @@
 .pe-ato {pointer-events: auto !important}
 
 
+
+/* OPACITY
+   —————————————————————— */
+.opcty0 {opacity: 0 !important}
+.opcty25 {opacity: .25 !important}
+.opcty50 {opacity: .5 !important}
+.opcty75 {opacity: .75 !important}
+.opcty100 {opacity: 1 !important}
+
+
 /* OVERFLOW
    —————————————————————— */
 .oflo-auto {overflow: auto !important}
