@@ -265,6 +265,13 @@
 .trns-y {transform: translateY(-50%) !important}
 
 
+
+/* Scroll Behavior
+   —————————————————————— */
+.scrll-ato {scroll-behavior: auto !important}
+.scrll-smth {scroll-behavior: smooth !important}
+
+
 /* SHADOWS
    —————————————————————— */
 .shdw {box-shadow: var(--shadow) !important}
