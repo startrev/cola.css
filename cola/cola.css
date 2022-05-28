@@ -137,10 +137,6 @@
 .jst-cntnt-arnd {justify-content: space-around !important}
 .jst-cntnt-even {justify-content: space-evenly !important}
 
-/* Media Object */
-.flx-shrnk0 {flex-shrink: 0 !important}
-.flx-shrnk1 {flex-shrink: 1 !important}
-
 /* Order */
 .ordr-1st {order: -1 !important}
 .ordr0 {order: 0 !important}
