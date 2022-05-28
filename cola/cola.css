@@ -394,6 +394,20 @@
 .pl5 {padding-left: var(--spacer-5) !important}
 
 
+/* TOUCH ACTION
+   —————————————————————— */
+.tch-ato {touch-action: auto !important}
+.tch-no {touch-action: none !important}
+.tch-x {touch-action: pan-x !important}
+.tch-y {touch-action: pan-y !important}
+.tch-str {touch-action: pan-left !important}
+.tch-end {touch-action: pan-right !important}
+.tch-up {touch-action: pan-up !important}
+.tch-dwn {touch-action: pan-down !important}
+.tch-zm {touch-action: pinch-zoom !important}
+.tch-man {touch-action: manipulation !important}
+
+
 /* BORDERS
    —————————————————————— */
 
