@@ -348,6 +348,9 @@
 .fst-ital {font-style: italic !important}
 .fst-nrml {font-style: normal !important}
 
+/* Text Truncation */
+.tx-trunc {overflow: hidden !important; text-overflow: ellipsis !important; white-space: nowrap !important}
+
 
 /* SPACING
    —————————————————————— */
