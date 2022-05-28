@@ -210,6 +210,23 @@
 .crsr-zmout {cursor: zoom-out !important}
 
 
+/* OBJECTS
+   —————————————————————— */
+
+/* Object Fit */
+.obj-fit-con {object-fit: contain !important}
+.obj-fit-cov {object-fit: cover !important}
+.obj-fit-fll {object-fit: fill !important}
+.obj-fit-no {object-fit: none !important}
+.obj-fit-dwn {object-fit: scale-down !important}
+
+/* Object Position */
+.obj-pos-top {object-position: top !important}
+.obj-pos-end {object-position: right !important}
+.obj-pos-btm {object-position: bottom !important}
+.obj-pos-str {object-position: left !important}
+
+
 /* OPACITY
    —————————————————————— */
 .opcty0 {opacity: 0 !important}
