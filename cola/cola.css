@@ -435,3 +435,11 @@
    —————————————————————— */
 .vsbl {visibility: visible !important}
 .invsbl {visibility: hidden !important}
+
+
+/* Z-INDEX
+   —————————————————————— */
+.zndx0 {z-index: 0 !important}
+.zndx1 {z-index: 100 !important}
+.zndx2 {z-index: 200 !important}
+.zndx3 {z-index: 300 !important}
