@@ -356,6 +356,12 @@
 .fst-ital {font-style: italic !important}
 .fst-nrml {font-style: normal !important}
 
+/* Line Height */
+.lh1 {line-height: 1 !important}
+.lhs {line-height: 1.25 !important}
+.lhb {line-height: 1.5 !important}
+.lh2 {line-height: 2 !important}
+
 /* Text Truncation */
 .tx-trunc {overflow: hidden !important; text-overflow: ellipsis !important; white-space: nowrap !important}
 
