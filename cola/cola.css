@@ -338,6 +338,14 @@
 .tx-up {text-transform: uppercase !important}
 .tx-cap {text-transform: capitalize !important}
 
+/* Font Size */
+.fs1 {font-size: calc(1.375rem + 1.5vw) !important;}
+.fs2 {font-size: calc(1.325rem + 0.9vw) !important;}
+.fs3 {font-size: calc(1.3rem + 0.6vw) !important;}
+.fs4 {font-size: calc(1.275rem + 0.3vw) !important;}
+.fs5 {font-size: 1.25rem !important}
+.fs6 {font-size: var(--spacer-3) !important}
+
 /* Font Weight & Style */
 .fw-litr {font-weight: lighter !important}
 .fw-lit {font-weight: 300 !important}
